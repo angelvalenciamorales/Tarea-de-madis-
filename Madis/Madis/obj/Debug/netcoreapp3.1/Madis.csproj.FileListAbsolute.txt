@@ -1,0 +1,14 @@
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.exe
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.deps.json
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.runtimeconfig.json
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.runtimeconfig.dev.json
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.dll
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\bin\Debug\netcoreapp3.1\Madis.pdb
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.csproj.AssemblyReference.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.AssemblyInfoInputs.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.AssemblyInfo.cs
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.csproj.CoreCompileInputs.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.dll
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.pdb
+C:\Users\Angel Valencia\Downloads\proyrcto\Madis\Madis\obj\Debug\netcoreapp3.1\Madis.genruntimeconfig.cache
